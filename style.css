@@ -1,0 +1,54 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    background-image: linear-gradient(120deg, #1c1f19 0%, #3896c57b 100%);
+    color: white;
+    font-family: "Poppins", sans-serif;
+    min-height: 100vh;
+
+
+}
+
+.hidden {
+    display: none;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 600px;
+    padding-left: 600px;
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+
+input {
+    font-size: 20px;
+    border: #8ce152;
+    margin-bottom: 15px;
+}
+
+button {
+
+    font-size: 20px;
+    color: rgb(26, 24, 25);
+    border: #8ce152;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    margin-bottom: 5px;
+    color: #1c1f19
+}
